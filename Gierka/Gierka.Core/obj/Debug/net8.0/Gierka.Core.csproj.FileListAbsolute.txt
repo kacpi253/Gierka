@@ -1,0 +1,15 @@
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\bin\Debug\net8.0\Gierka.Core.deps.json
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\bin\Debug\net8.0\Gierka.Core.runtimeconfig.json
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\bin\Debug\net8.0\Gierka.Core.dll
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\bin\Debug\net8.0\Gierka.Core.pdb
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.csproj.AssemblyReference.cache
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.AssemblyInfoInputs.cache
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.AssemblyInfo.cs
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.sourcelink.json
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.dll
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\refint\Gierka.Core.dll
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.pdb
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\Gierka.Core.genruntimeconfig.cache
+C:\Users\kacpe\Desktop\Studia\SEMESTR 3\Inżynieria Oprogramowania\Projekt\Gierka\Gierka.Core\obj\Debug\net8.0\ref\Gierka.Core.dll
